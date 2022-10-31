@@ -34,18 +34,18 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'email',
-        message: 'Your email?'
+        name: 'test',
+        message: 'test'
+    },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'Question?'
     },
     {
         type: 'input',
         name: 'repo',
-        message: 'What is the name of your GitHub repo?'
-    },
-    {
-        type: 'input',
-        name: 'username',
-        message: 'What is your GitHub username?'
+        message: 'What is your GitHub repo?'
     },
     {
         type: 'list',
