@@ -1,6 +1,6 @@
  
 
-# r
+# Professional README Generator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 https://choosealicense.com/licenses/mit/
@@ -16,26 +16,26 @@ https://choosealicense.com/licenses/mit/
 ### -[License](#license)
 
 ## Description:
-r
+README generator car quickly create a professional READ for a new project
 
 ## Installation:
-r
+npm inquirer
 
 ## Usage:
-r
+no
 
 ## Contribution:
-r
+no
 
 ## Test:
-r
+no
 
 ## Questions:
-r
+no
 
 ## GitHub repo:
-r
+https://github.com/Heidi-NW/readme-generator.git
 
 ## License:
-MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
  
