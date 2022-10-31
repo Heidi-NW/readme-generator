@@ -51,11 +51,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'License?',
-        choices: ['Apache 2.0', 'GNU GPLv3', 'MIT'],
-        filter(val) {
-            return val.toLowerCase();
-        }
-
+        choices: ['Apache 2.0', 'GNU GPLv3', 'MIT']
     }
 ];
 
@@ -86,6 +82,6 @@ function init() {
 // // Function call to initialize app
 init();
 
-// module.exports = questions;
+
 
 
